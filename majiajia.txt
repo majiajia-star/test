@@ -1,0 +1,4 @@
+netsh winsock reset
+
+
+C:\Users\User\AppData\Local\Temp
